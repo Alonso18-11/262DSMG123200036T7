@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="loading_failed">No se pudieron cargar los libros</string>
+    <string name="connection_error">Error de conexión</string>
+    <string name="retry">Reintentar</string>
+    <string name="search">Buscar</string>
+    <string name="search_hint">Buscar libros</string>
+    <string name="no_results">No se encontraron libros</string>
+</resources>

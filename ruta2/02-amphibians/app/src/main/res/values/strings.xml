@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="loading_failed">No se pudieron cargar los datos</string>
+    <string name="connection_error">Error de conexión</string>
+    <string name="retry">Reintentar</string>
+    <string name="amphibian_title">%1$s (%2$s)</string>
+</resources>
